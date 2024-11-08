@@ -6,7 +6,7 @@ TextureImporter:
   serializedVersion: 12
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -37,13 +37,13 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -52,9 +52,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -121,18 +121,810 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 195
+        width: 30
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1450597f558d4524bb93e665dc11350c
+      internalID: -654390166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 195
+        width: 30
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c278f1dff937ce469359028f653170c
+      internalID: -1486710940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 194
+        width: 30
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c5ef7393955b54c85042c8516363be
+      internalID: -1346548933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 193
+        width: 30
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669768e9e30863d40bb060dedf3a16d9
+      internalID: 656530205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 194
+        width: 30
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72543df4bb83d5428ecaf4438222412
+      internalID: 946065420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 195
+        width: 30
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d679c38b9fe34cbf917238a21f58c
+      internalID: -1869696191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 194
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da507d850ebd5024891c403cc19f00c4
+      internalID: 465830581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 193
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae060347c36648a4ca16d13ff7542a87
+      internalID: 200613533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 194
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c3d6d414ef2fb4780039242ac4912f
+      internalID: -1573552178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 130
+        width: 29
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bbc8986f638da4f8845a767a543aca
+      internalID: 449162385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 130
+        width: 27
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d9e5b7be2da4498c314944c73068b
+      internalID: 2043028311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 131
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3273735ac6881844adf693ec4f863b8
+      internalID: 1860676033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 131
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3079c53dfdad6b844a3d4a44b6fcf007
+      internalID: -1759709977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 130
+        width: 38
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c4bed50036de345ba7f662942dcabf
+      internalID: 385021230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 130
+        width: 39
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e076a67c62c074468d052aa40ef6eb3
+      internalID: -36681305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 130
+        width: 37
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34d6442d7ed114983d7c902d0c7df7
+      internalID: 1460734715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 130
+        width: 29
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1ccfb4abd020c409820d26a691e41e
+      internalID: 1695905788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 130
+        width: 29
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b702b4d9995a4489ef6a2ad61b716
+      internalID: -41211455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 66
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc6d9d34fca32743b944a29eb81368f
+      internalID: 2020130981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 66
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1dbcb5f91a87429fa63f1b5817d4f
+      internalID: 96359653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 65
+        width: 35
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e158b4d2cebd4a849823f84632a1666c
+      internalID: -1631976372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 65
+        width: 34
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd12e99da120c9647a8fa6cf422a4d49
+      internalID: 1399730382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 65
+        width: 35
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc9e7ff0e33ead4fabe64c3035fd8c4
+      internalID: -1702831056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 66
+        width: 35
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35fe60f9402ca5468ffdcfafbf8647b
+      internalID: -2134276070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_24
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 65
+        width: 33
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6debe9d5696f7e24bb1db4216078aaf3
+      internalID: 630520689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 33
+        height: 49
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2d847774911be429897ece7ed7a7b7
+      internalID: 688729942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_26
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 65
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e754cb11813e84d4a92c53fba5f855b5
+      internalID: 433905046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_27
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 21
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc5a040fdb24464c8f27d1ba944369b
+      internalID: 1724117805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 26
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0044ffe6377c74b82c250fe89e2b97
+      internalID: 407308682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 24
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743615ff0fcfeef4da8a3a0f385e836f
+      internalID: 917767257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3
+        width: 24
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f99bda02bbc4bf4eb0e3852d128d49e
+      internalID: 522051598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 24
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2398023beb2ca945ab416475d9eb333
+      internalID: -1320300539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2
+        width: 28
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc75e0067efdbe4eab794924f33fb81
+      internalID: -1574664655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_33
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2
+        width: 24
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442f8f70eb7a8944a9cdcdb0dc80983f
+      internalID: -872402123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_34
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2
+        width: 23
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a05225e8acc1546a9bc70ab76fb0aa
+      internalID: 1167849459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professor_walk_cycle_no_hat (2)_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 23
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb6ec7b077b9b4394e40aa28f3622e
+      internalID: -639080120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      professor_walk_cycle_no_hat (2)_0: -654390166
+      professor_walk_cycle_no_hat (2)_1: -1486710940
+      professor_walk_cycle_no_hat (2)_10: 2043028311
+      professor_walk_cycle_no_hat (2)_11: 1860676033
+      professor_walk_cycle_no_hat (2)_12: -1759709977
+      professor_walk_cycle_no_hat (2)_13: 385021230
+      professor_walk_cycle_no_hat (2)_14: -36681305
+      professor_walk_cycle_no_hat (2)_15: 1460734715
+      professor_walk_cycle_no_hat (2)_16: 1695905788
+      professor_walk_cycle_no_hat (2)_17: -41211455
+      professor_walk_cycle_no_hat (2)_18: 2020130981
+      professor_walk_cycle_no_hat (2)_19: 96359653
+      professor_walk_cycle_no_hat (2)_2: -1346548933
+      professor_walk_cycle_no_hat (2)_20: -1631976372
+      professor_walk_cycle_no_hat (2)_21: 1399730382
+      professor_walk_cycle_no_hat (2)_22: -1702831056
+      professor_walk_cycle_no_hat (2)_23: -2134276070
+      professor_walk_cycle_no_hat (2)_24: 630520689
+      professor_walk_cycle_no_hat (2)_25: 688729942
+      professor_walk_cycle_no_hat (2)_26: 433905046
+      professor_walk_cycle_no_hat (2)_27: 1724117805
+      professor_walk_cycle_no_hat (2)_28: 407308682
+      professor_walk_cycle_no_hat (2)_29: 917767257
+      professor_walk_cycle_no_hat (2)_3: 656530205
+      professor_walk_cycle_no_hat (2)_30: 522051598
+      professor_walk_cycle_no_hat (2)_31: -1320300539
+      professor_walk_cycle_no_hat (2)_32: -1574664655
+      professor_walk_cycle_no_hat (2)_33: -872402123
+      professor_walk_cycle_no_hat (2)_34: 1167849459
+      professor_walk_cycle_no_hat (2)_35: -639080120
+      professor_walk_cycle_no_hat (2)_4: 946065420
+      professor_walk_cycle_no_hat (2)_5: -1869696191
+      professor_walk_cycle_no_hat (2)_6: 465830581
+      professor_walk_cycle_no_hat (2)_7: 200613533
+      professor_walk_cycle_no_hat (2)_8: -1573552178
+      professor_walk_cycle_no_hat (2)_9: 449162385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
